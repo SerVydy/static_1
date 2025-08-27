@@ -16,7 +16,7 @@ h1{
 
 section{
    border: 1px solid blue;
-   padding: 20px;
+   padding: 10px 20px;
    background-color: rgb(248, 247, 247);
 }
 
@@ -41,4 +41,5 @@ footer{
    text-align: center;
    font-family: sans-serif;
    color: rgb(99, 76, 76);
+
 }
