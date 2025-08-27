@@ -1,0 +1,44 @@
+body {
+   display: grid;
+ 
+}
+div{
+   display: grid;
+   width: 34%;
+   justify-self: center;
+   row-gap: 10px;
+}
+h1{
+   text-align: center;
+   font-size: 180%;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+section{
+   border: 1px solid blue;
+   padding: 20px;
+   background-color: rgb(248, 247, 247);
+}
+
+
+p{
+   font-family: sans-serif;
+   line-height: 1.4;
+   text-align: justify;
+   font-size: 90%;
+}
+
+a{
+   color: blue;
+   text-decoration: none;
+}
+
+a:hover{
+   text-decoration: underline;
+}
+
+footer{
+   text-align: center;
+   font-family: sans-serif;
+   color: rgb(99, 76, 76);
+}
